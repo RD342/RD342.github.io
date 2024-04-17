@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sd746@exeter.ac.uk'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,60 +40,58 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Doctor of Philosophy in Mathematics 
+    institution: University of Exeter 
+    date_start: 09/2021
+    date_end: ---
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area:  Artificial Intelligence BSc (Hons)
+    institution: University of Edinburgh
+    date_start: 09/2017
+    date_end: 06/2021
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Core Modules: Computation and Logic (70), Data and Analysis (80), Introduction to Linear Algebra (90), 
+      Foundations of Natural Language Processing (71), Computer Security (90), Computer Communications and 
+      Networks (88), Algorithmic Game Theory and its Applications (80)
+
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -102,71 +100,90 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
         percent: 100
-        icon: devicon/rstudio
+        icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 50
         icon: devicon/pytorch
+      - name: Java
+        description: ''
+        percent: 100
+        icon: devicon/java
+      - name: Matlab
+        description: ''
+        percent: 90
+        icon: devicon/matlab
+      - name: Shell
+        description: ''
+        percent: 90
+        icon: devicon/powershell
+      - name: Raspberrypi
+        description: ''
+        percent: 40
+        icon: devicon/raspberrypi
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Swimming
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Table Tennis
         description: ''
         percent: 100
-        icon: cat
+        icon: tennis
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Painting
+        description: ''
+        percent: 80
+        icon: art
 
 languages:
   - name: English
+    percent: 80
+  - name: Mandarin
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#   - title: 
+#     url: 
+#     date: 
+#     awarder:
+#     icon: 
+#     summary: 
+     
+#   - title: 
+#     url: 
+#     date: 
+#     awarder:
+#     icon:
+#     summary: 
+     
+#   - title: 
+#     url:
+#     certificate_url: 
+#     date:
+#     awarder: 
+#     icon: 
+#     summary: 
+      
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a PhD student specializing in Mathematics. My research focus is on bio-inspired collective behavior modelling. As an interdisciplinary field, I am supervised by Prof. Stuart Townley and Dr Saptarshi Das from the Department of Mathematics and Prof. Alex Thornton from the Department of Ecology.
+
+I am interested in swarm intelligence, the collective behavior of animals, meta-heuristic algorithm and modelling. 
+
+ALGORITHMIC SKILLS: 
+Familiar with supervised learning such as support vector machines, linear discriminant analysis, k-nearest neighbour algorithm, decision trees, and clustering algorithms such as Hierarchical clustering, k-Means clustering.  
+Proficient in linear regression, logistic regression, naive Bayes, Neural Networks and Hidden Markov Models. 
+
