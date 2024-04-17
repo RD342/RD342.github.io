@@ -11,7 +11,7 @@ last_name: Dong
 
 # Status emoji
 status:
-  icon: 👍
+  icon: seeding
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +23,7 @@ role: PhD Student of University of Exeter
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Centre for Environmental Mathematics, Faculty of Environment, Science and Economy, University of Exeter
-    url: https://www.example.com/
+    url: https://www.exeter.ac.uk/faculties/ese/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -100,7 +100,7 @@ skills:
         icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 50
+        percent: 80
         icon: devicon/pytorch
       - name: Java
         description: ''
@@ -125,11 +125,11 @@ skills:
       - name: Swimming
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: person-swimming
       - name: Table Tennis
         description: ''
         percent: 100
-        icon: tennis
+        icon: table-tennis-paddle-ball
       - name: Photography
         description: ''
         percent: 80
@@ -137,11 +137,11 @@ skills:
       - name: Painting
         description: ''
         percent: 80
-        icon: art
+        icon: palette
 
 languages:
   - name: English
-    percent: 80
+    percent: 88
   - name: Mandarin
     percent: 100
 
