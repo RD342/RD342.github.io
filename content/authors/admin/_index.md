@@ -17,7 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of University of Exeter
+role: PhD Student of University of Exeter 
+Centre for Environmental Mathematics, Faculty of Environment, Science and Economy, University of Exeter
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,20 +32,18 @@ profiles:
     url: 'mailto:sd746@exeter.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/shuyan342?s=21&t=XKrRvK42F-sKZ0dRW0fZcg
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/RD342
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-
+    url: https://www.linkedin.com/in/shuyan-dong-261b20195
+ 
 education:
   - area: Doctor of Philosophy in Mathematics 
     institution: University of Exeter 
     date_start: 2021-09-01
     # date_end: ---
-    summary: |
+    # summary: |
     
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
@@ -180,7 +179,8 @@ I am a PhD student specializing in Mathematics. My research focus is on bio-insp
 
 I am interested in swarm intelligence, the collective behavior of animals, meta-heuristic algorithm and modelling. 
 
-ALGORITHMIC SKILLS: 
+***ALGORITHMIC SKILLS:*** 
+
 Familiar with supervised learning such as support vector machines, linear discriminant analysis, k-nearest neighbour algorithm, decision trees, and clustering algorithms such as Hierarchical clustering, k-Means clustering.  
 Proficient in linear regression, logistic regression, naive Bayes, Neural Networks and Hidden Markov Models. 
 
