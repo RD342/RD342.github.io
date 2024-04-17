@@ -11,8 +11,7 @@ last_name: Dong
 
 # Status emoji
 status:
-  icon: https://fontawesome.com/icons/seedling?f=classic&s=solid&pc=%23FFD43B
-
+  icon: 
 # Is this the primary user of the site?
 superuser: true
 
