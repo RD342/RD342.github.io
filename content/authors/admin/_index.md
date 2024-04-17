@@ -42,7 +42,7 @@ profiles:
 education:
   - area: Doctor of Philosophy in Mathematics 
     institution: University of Exeter 
-    date_start: 09/2021
+    date_start: 2021-09
     date_end: ---
     summary: |
       # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -62,8 +62,8 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area:  Artificial Intelligence BSc (Hons)
     institution: University of Edinburgh
-    date_start: 09/2017
-    date_end: 06/2021
+    date_start: 2017-09
+    date_end: 2021-06
     summary: |
       Core Modules: Computation and Logic (70), Data and Analysis (80), Introduction to Linear Algebra (90), 
       Foundations of Natural Language Processing (71), Computer Security (90), Computer Communications and 
