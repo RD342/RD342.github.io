@@ -18,11 +18,11 @@ superuser: true
 
 # Role/position/tagline
 role: PhD Student of University of Exeter 
-Centre for Environmental Mathematics, Faculty of Environment, Science and Economy, University of Exeter
+
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Exeter 
+  - name: Centre for Environmental Mathematics, Faculty of Environment, Science and Economy, University of Exeter
     url: https://www.example.com/
 
 # Social network links
