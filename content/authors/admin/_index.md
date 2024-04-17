@@ -1,27 +1,27 @@
 ---
 # Display name
-title: 吳健雄
+title: Profile
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shuyan
+last_name: Dong
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👍
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student of University of Exeter
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: University of Exeter 
     url: https://www.example.com/
 
 # Social network links
