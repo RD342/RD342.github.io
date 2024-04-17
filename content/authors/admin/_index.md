@@ -45,10 +45,7 @@ education:
     date_start: 2021-09-01
     # date_end: ---
     summary: |
-      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -65,9 +62,9 @@ education:
     date_start: 2017-09-01
     date_end: 2021-06-30
     summary: |
-      Core Modules: Computation and Logic (70), Data and Analysis (80), Introduction to Linear Algebra (90), 
-      Foundations of Natural Language Processing (71), Computer Security (90), Computer Communications and 
-      Networks (88), Algorithmic Game Theory and its Applications (80)
+      Core Modules: Computation and Logic, Data and Analysis, Linear Algebra, 
+      Foundations of Natural Language Processing, Computer Security, Computer Communications and 
+      Networks, Algorithmic Game Theory and its Applications
 
 # work:
 #   - position: Director of Cloud Infrastructure
