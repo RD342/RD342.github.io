@@ -178,7 +178,7 @@ Position: Researcher at the College of Engineering, Mathematics and Physical Sci
 
 **Research Interests:**
 
-Greeting! I am specializes in the application of meta-heuristic algorithms to enhance the autonomy of unmanned aerial vehicles (UAVs). My researches focuse on integrating advanced control systems with artificial intelligence to improve UAV performance in complex environments.
+Greetings! I am specializes in the application of meta-heuristic algorithms to enhance the autonomy of unmanned aerial vehicles (UAVs). My researches focuse on integrating advanced control systems with artificial intelligence to improve UAV performance in complex environments.
 
 I contributed to the field of UAV control systems by introducing meta-heuristic algorithms into closed-loop control frameworks. I worked on nonlinear time series analysis has advanced predictive models for drone motion, enhancing the reliability and efficiency of UAV operations. Additionally, the research on swarm intelligence has provided new insights into drone flocking behaviors, with potential applications in coordinated multi-UAV systems.
 
