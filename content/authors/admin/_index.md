@@ -174,12 +174,18 @@ languages:
       
 ---
 
-I am a PhD student specializing in Mathematics. My research focus is on bio-inspired collective behavior modelling. As an interdisciplinary field, I am supervised by Prof. Stuart Townley and Dr Saptarshi Das from the Department of Mathematics and Prof. Alex Thornton from the Department of Ecology.
+Position: Researcher at the College of Engineering, Mathematics and Physical Sciences, University of Exeter
 
-I am interested in swarm intelligence, the collective behavior of animals, meta-heuristic algorithm and modelling. 
+**Research Interests:**
 
-***ALGORITHMIC SKILLS:*** 
+Greeting! I am specializes in the application of meta-heuristic algorithms to enhance the autonomy of unmanned aerial vehicles (UAVs). My researches focuse on integrating advanced control systems with artificial intelligence to improve UAV performance in complex environments.
 
-Familiar with supervised learning such as support vector machines, linear discriminant analysis, k-nearest neighbour algorithm, decision trees, and clustering algorithms such as Hierarchical clustering, k-Means clustering.  
-Proficient in linear regression, logistic regression, naive Bayes, Neural Networks and Hidden Markov Models. 
+I contributed to the field of UAV control systems by introducing meta-heuristic algorithms into closed-loop control frameworks. I worked on nonlinear time series analysis has advanced predictive models for drone motion, enhancing the reliability and efficiency of UAV operations. Additionally, the research on swarm intelligence has provided new insights into drone flocking behaviors, with potential applications in coordinated multi-UAV systems.
 
+**Collaborations:**
+
+As an interdisciplinary field, I am supervised by Prof. Stuart Townley and Dr Saptarshi Das from the Department of Mathematics and Prof. Alex Thornton from the Department of Ecology contributing to interdisciplinary advancements in UAV technology.
+
+**Contact Information:**
+
+For further information or collaboration opportunities, please contact me through the University of Exeter's College of Engineering, Mathematics and Physical Sciences.
