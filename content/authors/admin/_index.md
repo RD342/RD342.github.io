@@ -99,7 +99,7 @@ skills:
         icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 80
+        percent: 100
         icon: devicon/pytorch
       - name: Java
         description: ''
@@ -107,7 +107,7 @@ skills:
         icon: devicon/java
       - name: Matlab
         description: ''
-        percent: 90
+        percent: 100
         icon: devicon/matlab
       - name: Shell
         description: ''
@@ -140,7 +140,7 @@ skills:
 
 languages:
   - name: English
-    percent: 88
+    percent: 99
   - name: Mandarin
     percent: 100
 
