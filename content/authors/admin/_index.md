@@ -184,7 +184,9 @@ I contributed to the field of UAV control systems by introducing meta-heuristic 
 
 **Collaborations:**
 
-As an interdisciplinary field, I am supervised by Prof. Stuart Townley and Dr Saptarshi Das from the Department of Mathematics and Prof. Alex Thornton from the Department of Ecology contributing to interdisciplinary advancements in UAV technology.
+My research is characterized by interdisciplinary collaboration, working alongside and supervised experts like Prof. Stuart Townley and Dr Saptarshi Das from the Department of Mathematics and Prof. Alex Thornton from the Department of Ecology. Together, we strive to develop innovative solutions that address complex challenges in UAV technology and swarm intelligence.
+
+I invite you to explore my publications and join me in discussions that drive the future of UAV research. Your insights and perspectives are invaluable as we navigate the exciting advancements in this field.
 
 **Contact Information:**
 
