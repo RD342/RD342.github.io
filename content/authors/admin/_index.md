@@ -149,7 +149,11 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
+PUBLICATION
+- S. Dong, S. Das, A. Thornton and S. Townley, "Control System Autonomy Improvement: An Attempt to Introduce Meta-Heuristic Algorithms into Closed-loop UAV Control Systems", Proceedings of the IEEE, 18th International Conference on Control, Automation, Robotics and Vision (ICARCV), Dubai, United Arab Emirates, 2024, pp. 454-459
+- S. Dong, S. Das, S. Townley (2024) ‘Drone motion prediction from flight data: a nonlinear time series approach’, Systems Science & Control Engineering, 12(1). doi: 10.1080/21642583.2024.2409098.
+- S. Dong, S. Das, S. Townley and A. Thornton, "Swarm Intelligence Based Drone Flocking Model," Proceedings of the IEEE, 28th International Conference on Automation and Computing (ICAC), Birmingham, United Kingdom, 2023, pp. 1-6
+
 #   - title: 
 #     url: 
 #     date: 
